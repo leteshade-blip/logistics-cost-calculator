@@ -55,6 +55,7 @@ export default function App() {
             <h1>물류 운송비 계산기</h1>
             <p>운행거리·차량 수·운임을 입력하면 총 운송비와 절감 효과를 바로 확인할 수 있습니다.</p>
           </div>
+          <span className="badge">AI LEX 3기</span>
         </div>
       </header>
 
